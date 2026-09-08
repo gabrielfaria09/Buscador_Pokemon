@@ -6,12 +6,6 @@ Este projeto foi construído como um desafio de desenvolvimento rápido (Roadmap
 
 ---
 
-## 📸 Preview da Aplicação
-
-> *[Insira aqui uma imagem ou GIF da sua aplicação funcionando, ex: `assets/preview.png`]*
-
----
-
 ## ✨ Funcionalidades
 
 - 🔍 **Busca Dinâmica:** Pesquise qualquer Pokémon pelo **nome** ou pelo **número da Pokédex (ID)**.
@@ -48,12 +42,12 @@ pokedex-app/
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/pokedex-app.git
+   git clone https://github.com/gabrielfaria09/Buscador_Pokemon.git
    ```
 
 2. **Acesse a pasta do projeto:**
    ```bash
-   cd pokedex-app
+   cd Buscador_Pokemon
    ```
 
 3. **Abra a aplicação:**
@@ -75,10 +69,10 @@ Durante o desenvolvimento deste projeto de 3 horas, os seguintes tópicos foram 
 
 ## 📄 Licença
 
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença livre acesso para estudo e manipulação.
 
 ---
 
 <p center="align">
-  Desenvolvido com ⚡ por <a href="https://github.com/seu-usuario">Seu Nome</a>.
+  Desenvolvido com ⚡ por <a href="https://github.com/gabrielfaria09">Gabriel Alves Faria</a>.
 </p>
