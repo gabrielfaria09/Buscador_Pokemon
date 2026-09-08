@@ -1,0 +1,21 @@
+:root{
+    --cor1: #EB5E55;
+    --cor2: #3A3335;
+    --cor3: #D81E5B;
+    --cor4: #FDF0D5;
+    --cor5: #C6D8D3;
+}
+
+body{
+    background-color: var(--cor4);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-size: 2rem;
+    letter-spacing: 0.2rem;
+}
