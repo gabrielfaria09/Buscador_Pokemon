@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: var(--cor4);
+    background-color: var(--cor5);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -23,4 +23,14 @@ body{
 img:not([src]), 
 img[src=""] {
   display: none;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+p{
+    font-size: 1rem;
+    letter-spacing: 0.2rem;
 }
