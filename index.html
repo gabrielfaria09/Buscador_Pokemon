@@ -13,12 +13,16 @@
     <h1>Buscador de Pokemóns</h1>
 
     <article>
-        <form id="form">
+        <form id="form" onsubmit="return false">
             <input type="text" id="pesquisa">
-            <button type="submit" id="botao">Clique aqui para pesquisar</button>
+            <button type="button" id="botao">Clique aqui para pesquisar</button>
         </form>
 
         <section id="card_pokemon">
+
+        <p id="paragrafoNome"></p>
+        <p id="paragrafoId"></p>
+        <img id="ImagemPokemon" alt="Imagem do pokemón" src="">
 
         </section>
     </article>
